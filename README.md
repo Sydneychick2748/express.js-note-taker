@@ -1,19 +1,19 @@
 # express.js-note-taker
 
 
-##Descritpion
+## Descritpion
 This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. This application will also be deployed to Heroku.
 
 View deployed HEROKU app here!
 
-##Table of Content
+## Table of Content
 
 
 
 
 
 
-##Use
+## Use
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -51,9 +51,9 @@ Node.js
 Express.js
 
 
-##Credits
+## Credits
 Frontend starting files provided © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-##About
+## About
 This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
