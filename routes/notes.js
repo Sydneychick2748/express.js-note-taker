@@ -1,5 +1,5 @@
 const notes = require("express").Router();
-const fs = require('fs');
+const fs = require("fs");
 const { readFromFile, readAndAppend } = require("../helpers/fsUtils");
 const uuid = require("../helpers/uuid");
 
@@ -39,6 +39,5 @@ notes.delete("/:id", (req, res) => {
   fs.writeFileSync("./db/db.json", JSON.stringify(deleteNotes));
   res.json(deleteNotes);
 });
-
 
 module.exports = notes;
