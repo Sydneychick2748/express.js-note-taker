@@ -71,10 +71,10 @@ Express.js
 
 
 ## Contributing
-This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file. If you would like to contribute, visit my GitHub here: 
+This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file. If you would like to contribute, visit my GitHub here: https://github.com/Sydneychick2748/express.js-note-taker
 
 
 ## Questions. 
-If you have any questions about this website, you can email me at anabennett77@gmail.com and check out my GitHub here at :
+If you have any questions about this website, you can email me at anabennett77@gmail.com and check out my GitHub here at: https://github.com/Sydneychick2748/express.js-note-taker
 
 
