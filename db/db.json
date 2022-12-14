@@ -1,6 +1,8 @@
 [
-    {"title":"my first title",
-    "text":"this is my first note ",
-    "id":""
+    {
+        "title": "my first title",
+        "text": "this is my first note ",
+        "id": ""
     }
+    
 ]
