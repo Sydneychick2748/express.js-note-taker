@@ -42,9 +42,21 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-Then I can delete a note if I no longer want to have it saved 
+Then I can delete a note if I no longer want to have it saved
 
 Here is a video you can see how the functionality works: 
+
+
+
+
+
+
+
+
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/87034052/207481145-b16d10e2-31c8-4b3c-b381-b23315ad180d.png">
+
+
+
 
 
 
