@@ -4,7 +4,7 @@
 ## Description
 This project is a Note Taker application that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file. This application will also be deployed to Heroku.
 
-View deployed HEROKU app here: https://dry-bayou-61928.herokuapp.com/
+View deployed HEROKU app here: https://immense-cove-75511.herokuapp.com/
 
 
 
@@ -44,7 +44,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 Then I can delete a note if I no longer want to have it saved
 
-Here is a video you can see how the functionality works: 
+Here is a video you can see how the functionality works: <iframe src="https://drive.google.com/file/d/1MqcppD37hX5ZLS17lNfMWrnBhbxCLD5k/preview" width="640" height="480"></iframe>
 
 
 
